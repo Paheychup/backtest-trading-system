@@ -1,3 +1,2 @@
 # backtest-trading-system
-В файле robot-levels.ipynb проведен разбор торговой системы
-https://github.com/Paheychup/backtest-trading-system/blob/main/robot_levels.ipynb
+Для запуска проекта кликнуть по ссылке <a href="">https://github.com/Paheychup/backtest-trading-system/blob/main/robot_levels.ipynb</a>
